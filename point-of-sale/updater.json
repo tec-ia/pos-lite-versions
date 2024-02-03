@@ -1,0 +1,11 @@
+{
+    "version": "v0.0.0",
+    "notes": "See the assets to download this version and install.",
+    "pub_date": "2024-02-02T05:12:10.282Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWlhzUnN0clpXZ1J6YmpTdU84VXlENlhPZXFCanZyVmVOZ3M3a0Z4clJhTGozUlBvVlBRQzNUazUrQkxlWUZEWmo2aWpycFBmb0t6dk85c1FodFFRY0kvWWhKNW5SaEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA2OTkwNzc3CWZpbGU6cG9pbnQtb2Ytc2FsZV8wLjEuMF94NjRfZW4tVVMubXNpLnppcApQNDNWeVR2cHNXMGt2eVFKU3RVT3EvTmVLNGRqVjdDTG5ibDZ5REoxVXZza2l3V3p1dXJnL1ovY2E5Rit5MzE4ZEpMNjIxMG5BNmRlayt5bE9yT0dBUT09Cg==",
+            "url": "https://github.com/tec-ia/point-of-sale/blob/main/downloads/v0.0.0/point-of-sale_0.1.0_x64_en-US.msi.zip"
+        }
+    }
+}
