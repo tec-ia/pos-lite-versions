@@ -1,11 +1,10 @@
 {
-    "version": "v0.1.1",
-    "notes": "See the assets to download this version and install.",
-    "pub_date": "2024-03-02T05:12:10.282Z",
+    "version": "v0.0.0",
+    "notes": "Hola usuario de Tec-IA POS, instala nuestra nueva versión y sigamos mejorando juntos !",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWlhzUnN0clpXZ1N6NHJRNEVmWHJ6OGRMRk81djNxT2NyRlo3bXJvTjhROXBkSlIzTEcxYmd1dklDVWJIZE96MHczVFNqU1FGb1ZFWkVEK2NDL1dGZEN3T0pIdTFIQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA2OTk5NDUxCWZpbGU6cG9pbnQtb2Ytc2FsZV8wLjEuMF94NjRfZW4tVVMubXNpLnppcApvTEVWcWhvcDJsUUZ0T0hzcHBEOW9vU1FXT3NJSk1JaHFlYm1SSG4zdW41TVJUVERHS3pJa1ZMNml3cnRKdHUvZ2Z6NEFsYzdNcVYrUkJUVXZIL1VCQT09Cg==",
-            "url": "https://raw.githubusercontent.com/tec-ia/applications/main/point-of-sale/downloads/v0.1.1/point-of-sale_0.1.0_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWlhzUnN0clpXZ2FRVU1tTG5kdGlFZFIxVmtGRHlWd0haalYzQTRNT3U2cVNDUVdLT1E3RnJJUElQNWtHMFJkWVRRT3pObnZUYllrbjY4WVdRdlBwTFE3NExINjZEMkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA3MDc0MjQ0CWZpbGU6cG9pbnQtb2Ytc2FsZV8wLjAuMF94NjRfZW4tVVMubXNpLnppcApLcmRGZ1hqR2l2WEkwcE1sSXVlRXN3MTV6dnNHaVp0TDNoSHlFTEZ4K3lMalVKYjhCZ1g0OWNxL0VkbjJla1pFY2NyZlpadEVFdXdiNEt1aUl4MG5Cdz09Cg==",
+            "url": "https://raw.githubusercontent.com/tec-ia/applications/main/point-of-sale/downloads/v0.0.0/point-of-sale_0.0.0_x64_en-US.msi.zip"
         }
     }
 }
