@@ -3,7 +3,7 @@
     "notes": "Hola usuario de Tec-IA POS, instala nuestra nueva versión y sigamos mejorando juntos !",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWlhzUnN0clpXZ2FRVU1tTG5kdGlFZFIxVmtGRHlWd0haalYzQTRNT3U2cVNDUVdLT1E3RnJJUElQNWtHMFJkWVRRT3pObnZUYllrbjY4WVdRdlBwTFE3NExINjZEMkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA3MDc0MjQ0CWZpbGU6cG9pbnQtb2Ytc2FsZV8wLjAuMF94NjRfZW4tVVMubXNpLnppcApLcmRGZ1hqR2l2WEkwcE1sSXVlRXN3MTV6dnNHaVp0TDNoSHlFTEZ4K3lMalVKYjhCZ1g0OWNxL0VkbjJla1pFY2NyZlpadEVFdXdiNEt1aUl4MG5Cdz09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWlhzUnN0clpXZ1JOblpHT2N5OHBZQ2twQXZSYXR2RHcvQTBCSTlSYXpsVDNJdEZJb1Z0d2J3RHFaTDZLeHFmUTJub1JjekpxSlNlTktJWmFuSW9QM2hqdDI2aTNScmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA3NDQ1MzAyCWZpbGU6cG9pbnQtb2Ytc2FsZV8wLjAuMF94NjRfZW4tVVMubXNpLnppcAp0Mnk2WHdnbTRaM0pWVVNudEtubW5UZ3BMSzh2Um4yVlk3NjhzSjlhejBVSmpHajJYV1grblVRNy9RVjU0K09WMWhHSGQvN3hIUkNkeGRTTk41Q2dDQT09Cg==",
             "url": "https://raw.githubusercontent.com/tec-ia/applications/main/point-of-sale/downloads/v0.0.0/point-of-sale_0.0.0_x64_en-US.msi.zip"
         }
     }
