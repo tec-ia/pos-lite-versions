@@ -1,10 +1,10 @@
 {
-    "version": "v0.0.10",
+    "version": "v0.0.11",
     "notes": "Hola usuario de Tec-IA POS, instala nuestra nueva versión y sigamos mejorando juntos !",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkx1QU51YmFzaDdaM2RBdUROajVZRUNWTVVrQ1FnREhrbE5Gc1Q3S3ArOWxjeXEwVDdKZW9DYWY3b2tablZRdFU3K0I1U2U3QzF1N0RKckFhSElZdVR1UnJ0OFRRSHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTA4MjQ2CWZpbGU6VGVjLUlBIFB1bnRvIGRlIHZlbnRhXzAuMC4xMF94NjRfZW4tVVMubXNpLnppcApBZjBUV29jZFdTNGR6WFYwVnpHa1g4MndNd2dEcG8wNmdjcEFMSFgvZElDMkQ0ekVUcGM4b2ZnWDRzU3B6TGNQK2Z4WU94NVFsRWxFaHZMc04xOWxBZz09Cg==",
-            "url": "https://github.com/tec-ia/pos-lite-versions/raw/refs/heads/main/downloads/v0.0.10/Tec-IA Punto de venta_0.0.10_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkx1QU51YmFzaDY2Y0NDdFhMZThaWUM0L3hnWS94ejRtSFdoeXBBTm1wNXF4clo5M0cxcS8xR01vdDA4R1JSNU5nblZsM2tWLzJMV3dYTU4wcDJYVnNXbTYzd2RTQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MDQ5NTQ0CWZpbGU6VGVjLUlBIFB1bnRvIGRlIHZlbnRhXzAuMC4xMV94NjRfZW4tVVMubXNpLnppcApzbU9MMEZVTERrTFhob0RHNHdzL2QxSzk5Rkt1LzlHd0RwcDFUbDRwaEJjRjczZGNRc2hWUFVaWE53T3p3NW5Ec21NRlNKcDdLUFlpeEpodnhGSHRCUT09Cg==",
+            "url": "https://github.com/tec-ia/pos-lite-versions/raw/refs/heads/main/downloads/v0.0.11/Tec-IA Punto de venta_0.0.11_x64_en-US.msi.zip"
         }
     }
 }
